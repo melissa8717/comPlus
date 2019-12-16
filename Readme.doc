@@ -4,3 +4,6 @@ Readme
 Cloner le projet
 Aller sur la page html «cartes.html»
 Puis Cliquer sur le lien : voir les cartes d’embarquement
+Les données des cartes d'embarquement sont contenues dans un fichier json qui est dans le sous dossier comPlus.
+Comme les cartes d'embarquement à l'origine sont censées etre dans l'ordre, j'ai présuposé que l'ordre devait etre écrit dans les données de base, donc j'ai utilisé le numérdo d'ordre inscrit dans le json pour trier mes cartes
+Le fichier test à la racine du projet, teste la méthode de trie des données comprises dans json
